@@ -14,11 +14,11 @@ function reverse(str) {
       //2nd  //  return str.split('').reverse().join('');
 
       //3rd
-        var reversed = '';
-        for (var character of str){
-            reversed = character + reversed;
-        }
-    return reversed;
+    //     var reversed = '';
+    //     for (var character of str){
+    //         reversed = character + reversed;
+    //     }
+    // return reversed;
 }
 
 
